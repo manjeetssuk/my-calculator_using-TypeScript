@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). It uses Next.js 13 and TypeScript.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). It uses Next.js 13 and TypeScript. The front-end uses Tailwind and back-end uses Python.
+
+## Tech stack
+Front-end: Next.js 13, TypeScript
+Back-end: Python
+
+## Objective
+Learn or use as a starter template a simple web application which integrates two different technologies - Next.js and Python.
+
+## Functionality
+This is a simple application that takes two numbers as input via text fields, multiplies both and shows the result in a "Total" textfield. The calculation is triggered using a "Calculate" button.
 
 ## Getting Started
 
